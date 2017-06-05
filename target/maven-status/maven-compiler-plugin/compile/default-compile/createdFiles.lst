@@ -1,0 +1,5 @@
+com\mycompany\batistest\domain\Slovo.class
+com\mycompany\batistest\service\SlovoService.class
+com\mycompany\batistest\service\MyBatisUtil.class
+Test.class
+com\mycompany\batistest\mappers\SlovoMapper.class
